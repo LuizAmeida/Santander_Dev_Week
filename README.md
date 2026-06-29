@@ -44,7 +44,7 @@ Os dados enriquecidos e transformados são exportados para um novo arquivo final
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/santander-dev-week-2023.git](https://github.com/SEU-USUARIO/santander-dev-week-2023.git)
+   git clone [https://github.com/LuizAlmeida/santander-dev-week-2023.git](https://github.com/LuizAlmeida/santander-dev-week-2023.git)
    ````
 
 ## 2. Instale as dependências:
@@ -55,7 +55,7 @@ Os dados enriquecidos e transformados são exportados para um novo arquivo final
 ## 3. Execute o script principal para ver a mágica do ETL acontecer!
 
 ## 👨‍💻 Desenvolvedor
-## Luiz - Cientista de Dados em Formação
+## Luiz - Analista de Dados em Formação
 
 
 
